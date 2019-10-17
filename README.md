@@ -1,5 +1,4 @@
 "# newRepoName"
+привет лохнес
 
-Hey Pusya
-Hey Klimenich
 
